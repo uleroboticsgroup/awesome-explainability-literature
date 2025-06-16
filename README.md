@@ -48,7 +48,7 @@ Includes conceptual works, taxonomies, and survey papers on interpretability, ac
 ### 3. Regulation and Ethics
 Papers discussing explainability from a legal, societal, and ethical perspective.
 
-- 
+- Richmond, K. M., Muddamsetty, S. M., Gammeltoft-Hansen, T., Olsen, H. P., & Moeslund, T. B. (2024). Explainable AI and law: An evidential survey. Digital Society, 3(1), 1. [Link](https://link.springer.com/article/10.1007/s44206-023-00081-z)
 
 ### 4. Our Contributions
 Publications authored by our research group.
