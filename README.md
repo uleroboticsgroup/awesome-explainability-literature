@@ -43,7 +43,7 @@ Includes conceptual works, taxonomies, and survey papers on interpretability, ac
 - Arrieta, A. B., Díaz-Rodríguez, N., Del Ser, J., Bennetot, A., Tabik, S., Barbado, A., ... & Herrera, F. (2020). Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. Information fusion, 58, 82-115. [Link](https://www.sciencedirect.com/science/article/pii/S1566253519308103?casa_token=lk-pU_4XK0EAAAAA:QO0eUlGI_yvv49Hcd06-65YRKRh5rh18Mo2bduq0YE75lgzxnJr3W3PqmckCiSruCoQzeBDv)
 - Gomez, A. S. Explainable Artificial Intelligence: A Review of the Literature. [Link](https://adrianxsalazar.github.io/files/XAI_Adrian_salazar_Literature_Review.pdf)
 - Sakai, T., & Nagai, T. (2022). Explainable autonomous robots: a survey and perspective. Advanced Robotics, 36(5-6), 219-238. [Link](https://www.tandfonline.com/doi/full/10.1080/01691864.2022.2029720)
-- 
+- Hoffman, R. R., Mueller, S. T., Klein, G., & Litman, J. (2018). Metrics for explainable AI: Challenges and prospects. arXiv preprint arXiv:1812.04608. [Link](https://arxiv.org/abs/1812.04608)
 
 ### 3. Regulation and Ethics
 Papers discussing explainability from a legal, societal, and ethical perspective.
