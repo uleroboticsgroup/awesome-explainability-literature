@@ -108,4 +108,4 @@ We welcome additions! Please follow the existing APA citation style and include 
 
 This project has been partially funded by the Recovery, Transformation, and Resilience Plan, financed by the European Union (Next Generation) thanks to the TESCAC project (Traceability and Explainability in Autonomous Cystems for improved Cybersecurity) granted by INCIBE to the University of León
 
-<img src="https://github.com/Dsobh/explainable_ROS/blob/main/images/logos/LogosTESCAC.jpg" width="2000"/>
+<img src="https://github.com/uleroboticsgroup/awesome-explainability-literature/blob/main/images/LogosTESCAC.jpg" width="2000"/>
